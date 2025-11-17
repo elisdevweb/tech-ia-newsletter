@@ -1,10 +1,9 @@
 # TechIA Newsletter
-Landing page moderna para cadastro em newsletter sobre tecnologia e inteligência artificial.
-
-Este projeto foi desenvolvido para prática de Tailwind CSS, microinterações e criação de landing pages focadas em conversão.
 
 A TechIA Newsletter é uma página criada para captar e-mails de pessoas interessadas em tecnologia, inovação e IA.
 O layout combina estética minimalista, paleta roxa, formulário simples e uma imagem futurista representando imersão tecnológica.
+
+Este projeto foi desenvolvido para prática de Tailwind CSS, microinterações e criação de landing pages focadas em conversão.
 
 <b>Acesse o projeto:</b> https://elisdevweb.github.io/tech-ia-newsletter/
 
